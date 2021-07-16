@@ -1,0 +1,20 @@
+export default {
+    h1: 'Complete Only If Applying for Advance Parole',
+    main: 'On a separate sheet of paper, explain how you qualify for an Advance Parole Document, and what circumstances warrant issuance of advance parole. Include copies of any documents you wish considerd. (See instructions.)',
+    one: '1. How many trips do you intend to use this document?',
+    two: 'One Trip',
+    three: 'Multiple Trips',
+    four: 'If the person intended to receive an Advance Parole Document is outside the United States, provide the location (City or Town and Country) of the U.S. Embassy or consulate or the DHS overseas office that you want us to notify.',
+    five: '2.a. City or Town',
+    six: '2.b. Country',
+    seven: '3. If the travel document will be delivered to an overseas office, where should the notice to pick up the document be sent?',
+    eight: 'To the address shown in Part 2',
+    nine: 'To the address shown in Part 7',
+    ten: 'Part 7 - 4. In Care of Name',
+    eleven: '5. Street Number and Name',
+    twelve: '6. City or Town',
+    thirteen: '8. Postal Code',
+    fourteen: '9. Province',
+    fifteen: '10. Country',
+    sixteen: '11. Daytime Phone Number'
+}
